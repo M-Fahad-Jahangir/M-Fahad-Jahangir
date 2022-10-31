@@ -30,4 +30,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fahad-jahangir&" alt="m-fahad-jahangir" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fahad-jahangir&" alt="m-fahad-jahangir" /></p>
