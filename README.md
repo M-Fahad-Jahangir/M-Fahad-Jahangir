@@ -4,11 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://iamsarthakk.github.io/images/banner-image.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-fahad-jahangir&label=Profile%20views&color=0e75b6&style=flat" alt="m-fahad-jahangir" /> </p>
 
-- 🔭 I’m currently working on **Real Estate site**
+- 🔭 I’m currently working on **Flight booking site**
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **React , Next JS, CSS**
+- 💬 Ask me about **React , Next JS, MUI, SASS**
 
 - 📫 How to reach me **m.fahadme@gmail.com**
 
